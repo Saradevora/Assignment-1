@@ -1,0 +1,7 @@
+inputs/*.bin
+*.exe
+*.class
+*.dll
+*.o
+tmp_*
+__pycache__/
